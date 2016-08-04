@@ -12,5 +12,6 @@
   - C9 [Write Specs!](p1c9_write_specs.md)
 
 #### Part II: Classes, Modules, and Blocks
+  - C10 [Construct Your Classes from Short, Focused Method](p2c10_construct_your_classes_from_short_focused_method.md)
 
 *Codes from the book can be found in [this git repo](https://github.com/russolsen/eloquent_ruby_code).
