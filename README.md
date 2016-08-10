@@ -17,5 +17,7 @@
   - C12 [Create Classes That Understand Equality](p2c12_create_classes_that_understand_equality.md)
   - C13 [Get the Behavior You Need with Singleton and Class Method](p2c13_get_the_behavior_you_need_with_singleton_and_class_method.md)
   - C14 [Use Class Instance Variables](p2c14_use_class_instance_variables.md)
-  
+  - C15 [Use Modules as Name Spaces](p2c15_use_modules_as_name_spaces.md)
+  - C16 [Use Modules as Mixins](p2c16_use_modules_as_mixins.md)
+
 *Codes from the book can be found in [this git repo](https://github.com/russolsen/eloquent_ruby_code).
