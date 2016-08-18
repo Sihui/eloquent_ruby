@@ -19,5 +19,7 @@
   - C14 [Use Class Instance Variables](p2c14_use_class_instance_variables.md)
   - C15 [Use Modules as Name Spaces](p2c15_use_modules_as_name_spaces.md)
   - C16 [Use Modules as Mixins](p2c16_use_modules_as_mixins.md)
+  - C17 [Use Blocks to Iterate](p2c17_use_blocks_to_iterate.md)
+  - C18 [Execute Around with a Block](p2c18_execute_around_with_a_block.md)
 
 *Codes from the book can be found in [this git repo](https://github.com/russolsen/eloquent_ruby_code).
