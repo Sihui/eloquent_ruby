@@ -21,5 +21,6 @@
   - C16 [Use Modules as Mixins](p2c16_use_modules_as_mixins.md)
   - C17 [Use Blocks to Iterate](p2c17_use_blocks_to_iterate.md)
   - C18 [Execute Around with a Block](p2c18_execute_around_with_a_block.md)
+  - C19 [Save Blocks to Execute Later](p2c19_save_blocks_to_execute_later.md)
 
 *Codes from the book can be found in [this git repo](https://github.com/russolsen/eloquent_ruby_code).
